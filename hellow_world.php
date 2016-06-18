@@ -1,8 +1,10 @@
 <?php
 
 
-// test
 
 echo "hellow world!!";
+
+
+echo "こんにちわ";
 
 ?>
